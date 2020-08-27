@@ -1,0 +1,16 @@
+# Compiled output
+*/dist/
+api/lib/
+
+# Yarn
+.yarn/cache
+.yarn/plugins/*/**
+.yarn/releases
+.yarn/sdks
+.yarn/unplugged
+.yarn/*.*
+.pnp.js
+
+# Misc
+*.hbs
+tsconfig.json
